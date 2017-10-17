@@ -1,0 +1,4 @@
+caseSep,module,apiName,priority,url,function,purpose,parameter,expectValue
+C001,profile页,访客,h,/api/user/info/profile,GET,正确参数验证,user=i3x-p22gd2jW16qv20-Hlg,Success
+C002,profile页,profile页,h,/api/post/all/list,GET,正确参数验证,user=i3x-p22gd2jW16qv20-Hlg,"\""code\"":1"
+C003,话题,话题反馈,h,/api/topic/feedback,POST,正确参数验证,name=mmm&desc=111111111111,"\""code\"":1"
