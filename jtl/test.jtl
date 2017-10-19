@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="128" it="0" lt="126" ct="84" ts="1508397036626" s="true" lb="账号" rc="200" rm="OK" tn="芥末校园api自动化测试 1-1" dt="text" by="413" sby="420" ng="1" na="1"/>
+<httpSample t="405" it="0" lt="403" ct="361" ts="1508397036764" s="true" lb="后台验证码" rc="200" rm="OK" tn="芥末校园api自动化测试 1-1" dt="text" by="27323" sby="283" ng="1" na="1"/>
+<httpSample t="108" it="0" lt="107" ct="0" ts="1508397037177" s="true" lb="登录" rc="200" rm="OK" tn="芥末校园api自动化测试 1-1" dt="text" by="1439" sby="435" ng="1" na="1"/>
+<httpSample t="381" it="0" lt="380" ct="1" ts="1508397037486" s="true" lb="访客" rc="200" rm="OK" tn="芥末校园api自动化测试 1-1" dt="text" by="23501" sby="244" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="194" it="0" lt="194" ct="0" ts="1508397037899" s="true" lb="profile页" rc="200" rm="OK" tn="芥末校园api自动化测试 1-1" dt="text" by="28767" sby="240" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1508397038114" s="true" lb="话题反馈" rc="200" rm="OK" tn="芥末校园api自动化测试 1-1" dt="text" by="366" sby="309" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>
